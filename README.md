@@ -189,13 +189,6 @@ youtube-aws-pipeline/
 │   ├── lambda_role_policy.json             # IAM policy for Lambda role
 │   └── sfn_role_policy.json                # IAM policy for Step Functions role
 │
-├── screenshots/
-│   ├── step_functions_execution.png        # Step Functions execution graph
-│   ├── glue_job_runs.png                   # Glue job run history
-│   ├── athena_query_results.png            # Athena Gold layer query output
-│   ├── s3_bucket_structure.png             # S3 medallion layer structure
-│   └── lambda_functions.png               # Lambda console overview
-│
 ├── architecture_diagram.png                # Full pipeline architecture diagram
 └── README.md
 ```
